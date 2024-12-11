@@ -53,3 +53,5 @@ if st.button("Play"):
     
     result = determine_winner(user_choice, computer_choice)
     st.subheader(result)
+
+print("hello")
